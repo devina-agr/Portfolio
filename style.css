@@ -15,8 +15,8 @@
     display: flex;
     align-items: inline;
     background-color: rgb(0, 79, 116);
-    align-items: center;
     padding-left: 1%;
+    align-items: center;
 }
 a{
   margin-top: 2%;
